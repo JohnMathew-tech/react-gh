@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st posting",
+      "datetime": "May 27, 2024 2:43:30 PM",
+      "body": " ipsum dolor sit amet, c"
+    },
+    {
+      "id": "9",
+      "title": "Hi The",
+      "datetime": "May 29, 2024 1:50:53 PM",
+      "body": "test"
+    },
+    {
+      "id": "11",
+      "title": "fourteenth",
+      "datetime": "May 28, 2024 7:47:02 PM",
+      "body": "14"
+    },
+    {
+      "id": "13",
+      "title": "Latest",
+      "datetime": "May 29, 2024 2:06:13 PM",
+      "body": "Post"
+    },
+    {
+      "id": "14",
+      "title": "New",
+      "datetime": "May 29, 2024 2:06:31 PM",
+      "body": "Theatr"
+    }
+  ]
+}
